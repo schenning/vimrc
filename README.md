@@ -1,2 +1,2 @@
 # vimrc
-my .vimrc file
+my .virc file!
